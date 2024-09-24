@@ -64,3 +64,32 @@
     top: 50px;
     left: 60px;
 }
+@media  screen and (min-width:100px) and (max-width:576px) {
+    .cardsec{
+        margin: 100px 30px;
+
+    }
+    .cardm{
+        margin-top: 100px;
+    }
+    .cardmm{
+        margin: 90px 0px;
+    }
+    .faq-m{
+        margin-top: 100px;
+    }
+    .imgover{
+        position: absolute;
+        top: 20px;
+        left: 35px;
+        width: 200px!important;
+        height: 270px;
+
+    }
+    .imgover li{
+        font-size: 0.85rem!important;
+    }
+    .imgover h5{
+        font-size: 1rem;
+    }
+}
